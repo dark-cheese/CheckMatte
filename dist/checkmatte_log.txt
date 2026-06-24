@@ -1,0 +1,15 @@
+2026-06-24 16:23:59.342087 - Falha ao ler VIVA FISIOTERAPIA E SAUDE LTDA_36634051000112 (2).pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:24:06.061509 - Falha ao ler SANTA CRUZ ANALISES CLINICOS LTDA_07970235000155.pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:24:10.110957 - Falha ao ler ATACADAO.pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:24:13.542277 - Falha ao ler KAMILLA LOPES BATISTA_23291647000115 (1).pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:24:20.589675 - Falha ao ler VIVA FISIOTERAPIA E SAUDE LTDA_36634051000112 (2).pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:24:21.949027 - Falha ao ler SUDESTE BARROSO PECAS DIESEL LTDA_45224066000101.pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:24:23.207558 - Falha ao ler ATACADAO.pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:24:24.323438 - Falha ao ler SANTA CRUZ ANALISES CLINICOS LTDA_07970235000155.pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:24:35.252248 - Falha ao ler KAMILLA LOPES BATISTA_23291647000115 (1).pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:24:37.572540 - Falha ao ler SUDESTE BARROSO PECAS DIESEL LTDA_45224066000101.pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:27:54.293609 - Falha ao ler VIVA FISIOTERAPIA E SAUDE LTDA_36634051000112 (2).pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:27:54.316741 - Falha ao ler SANTA CRUZ ANALISES CLINICOS LTDA_07970235000155.pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:27:54.332526 - Falha ao ler ATACADAO.pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:27:54.345168 - Falha ao ler KAMILLA LOPES BATISTA_23291647000115 (1).pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
+2026-06-24 16:27:54.366591 - Falha ao ler SUDESTE BARROSO PECAS DIESEL LTDA_45224066000101.pfx: Nenhuma das 3 senhas funcionou para este arquivo PFX.
